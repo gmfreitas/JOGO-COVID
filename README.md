@@ -1,5 +1,7 @@
 import pygame
+
 import random
+
 import time
 
 def score_board(score):
